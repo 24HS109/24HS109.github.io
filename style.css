@@ -1,0 +1,16 @@
+h2,h3 { color: red;}
+ { color: orenge; } 
+
+p { color: blue; }
+
+.hello {
+color: red;
+}
+#birth {
+color: green;
+}
+
+.gradient {
+background: linear-gradient(to right , #38a092 , #fdbf3b);
+color: white;
+}
